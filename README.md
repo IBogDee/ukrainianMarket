@@ -5,6 +5,6 @@ a basic web app with three pages (1 home page, 1 adding items , 1 searching item
 
 * **SQL** database ready with parameterised queries
 * Manual security headers (Content-Security-Policy, X-Frame-Options, X-Content-Type-Options, Referrer-Policy,Content-Type)
-* Session-based cookie (secure,httponly)
+* Session-based cookie (secure,httpOnly,sameSite)
 
 ![ukrainianMarket](https://github.com/IBogDee/ukrainianMarket/blob/main/static/Background.png)
