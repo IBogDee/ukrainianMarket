@@ -1,0 +1,16 @@
+body {
+        background-image: url('Background.png');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+
+    }
+
+    title   {color: rgb(200, 255, 0);}
+    a    {color: rgb(255, 238, 0);}
+    label   {color: rgb(200, 255, 0);}
+    button    {color: rgb(0, 0, 0);}
+    h1   {color: rgb(255, 0, 0);}
+    h2   {color: rgb(255, 145, 0);}
+    li   {color: rgb(255, 153, 0);}
